@@ -29,7 +29,7 @@ function writeMarkdown(markdown, fn) {
 }
 
 var css1 = `/* 
- * 面试官你好，我是XXX
+ * 面试官你好，我是李雯雯
  * 只用文字作做我介绍太单调了
  * 我就用代码来介绍吧
  * 首先准备一些样式
